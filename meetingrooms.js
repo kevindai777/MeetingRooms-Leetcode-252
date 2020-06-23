@@ -12,6 +12,7 @@ intervals.sort((a,b) => {
 })
 
 for (let i = 0; i < intervals.length - 1; i++) {
+    //Check the adjacent ending and starting times
     if (intervals[i][1] > intervals[i + 1][0]) {
         return false
     }
