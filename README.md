@@ -3,6 +3,6 @@
 Leetcode Question 252 (Easy)
 
 Techniques Used in Question:
-Sorting
+Intervals, Sorting
 
 [Link to Question](https://leetcode.com/problems/meeting-rooms/)
